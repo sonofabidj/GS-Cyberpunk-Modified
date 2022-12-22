@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="125"
+   viewBox="0 0 79.375001 33.072916"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="grad_btn.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.8780438"
+     inkscape:cx="150.59139"
+     inkscape:cy="73.49066"
+     inkscape:window-width="1920"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,33.072917"
+       orientation="0,300"
+       id="guide284"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="79.375,33.072917"
+       orientation="125,0"
+       id="guide286"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="79.375,0"
+       orientation="0,-300"
+       id="guide288"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-125,0"
+       id="guide290"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18490">
+      <stop
+         style="stop-color:#0d0030;stop-opacity:1;"
+         offset="0"
+         id="stop18486" />
+      <stop
+         style="stop-color:#ff0066;stop-opacity:0;"
+         offset="1"
+         id="stop18488" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect2122"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Utilice la regla de relleno parimpar en el diálogo &lt;b&gt;Relleno y borde&lt;/b&gt; si el resultado no está aplanada después de convertir el recorte en trayectos." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2118">
+      <circle
+         style="display:none;opacity:1;fill:#ff0066;fill-opacity:0.721569;stroke:none;stroke-width:4.7625;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="circle2120"
+         cx="338.66666"
+         cy="141.81763"
+         r="266.19641" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18490"
+       id="linearGradient24938"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11716328,0,0,0.07828066,0.03360216,0.04728451)"
+       x1="0.62070298"
+       y1="422.06067"
+       x2="348.29181"
+       y2="216.45494" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.18;mix-blend-mode:difference;fill:url(#linearGradient24938);fill-opacity:1;stroke:none;stroke-width:0.456097;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect24716"
+       width="79.324715"
+       height="33.129555"
+       x="0.050543647"
+       y="0.051923931"
+       rx="0.20243926"
+       ry="0.21713273" />
+  </g>
+</svg>
